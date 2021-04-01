@@ -1,10 +1,11 @@
 # Workshop Name
-By: Name1, Name2, Name3
-Workshop Date: 1/1/11
+By: Anderson Lam, Adrian Zhang
+Workshop Date: 4/6/2021 3-4PM
 
 ## Workshop Goal(s): 
-Set up a repository structure to encourage a consistent standard for workshop creation.
-Update this to be the same as the goals in the notebook.
+* Introduce students with at least Data 8 visualization skills to what Plotly is			
+* Allow participants to quickly apply and adapt their skills to build off of Plotly's syntax			
+* Identify future applications of Plotly for their own usage and be comfortable doing so			
 
 ## For UC Berkeley Students: [Datahub Link]()
 
