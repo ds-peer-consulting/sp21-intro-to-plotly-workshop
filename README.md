@@ -7,8 +7,7 @@ Workshop Date: 4/6/2021 3-4PM
 * Allow participants to quickly apply and adapt their skills to build off of Plotly's syntax			
 * Identify future applications of Plotly for their own usage and be comfortable doing so			
 
-## For UC Berkeley Students: [Datahub Link]()
+## For UC Berkeley Students: [Datahub Link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-peer-consulting%2Fsp21-intro-to-plotly-workshop&urlpath=tree%2Fsp21-intro-to-plotly-workshop%2Fsp21-intro-to-plotly.ipynb&branch=main)
 
-## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)]()
+## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/sp21-intro-to-plotly-workshop/main?filepath=sp21-intro-to-plotly.ipynb)
 
-Click [here](NOTEBOOK-LINKS.md) to learn how to create the Datahub and Binder links for workshop attendees to use.
