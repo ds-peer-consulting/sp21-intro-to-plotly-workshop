@@ -1,6 +1,6 @@
-# Workshop Name
+# Introduction to Plotly Workshop
 By: Anderson Lam, Adrian Zhang
-Workshop Date: 4/6/2021 3-4PM
+Workshop Date: 4/9/2021 3-4PM
 
 ## Workshop Goal(s): 
 * Introduce students with at least Data 8 visualization skills to what Plotly is			
