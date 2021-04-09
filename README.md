@@ -8,7 +8,3 @@ Workshop Date: 4/6/2021 3-4PM
 * Identify future applications of Plotly for their own usage and be comfortable doing so			
 
 ## For UC Berkeley Students: [Datahub Link]()
-
-## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)]()
-
-Click [here](NOTEBOOK-LINKS.md) to learn how to create the Datahub and Binder links for workshop attendees to use.
